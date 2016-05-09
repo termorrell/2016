@@ -31,7 +31,6 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Cristian Tabuyo](https://instagram.com/ctapple_swift)|[Temperature](https://itunes.apple.com/es/app/alternativa-a-un-termometro/id1098259543?mt=8)|Submitted|||
 |[Dean Eigenmann](https://twitter.com/parklyapp)|[Parkly](https://www.parkly.ch)||||
 |[Duan Wen](https://twitter.com/wddwycc)||[Github](https://github.com/wddwycc/Freehand)|||
-|[Eduardo Santi](https://br.linkedin.com/in/eduardo-santi-44a9a399)||[GitHub](https://github.com/santieduardo/WWDC16)|3D Touch & MapKit||
 |[Eli Yazdi](https://twitter.com/eli_yazdi)|[3dtones](https://itunes.apple.com/us/app/3dtones/id1108446298?mt=8)|[GitHub](http://github.com/eliyazdi/3dtones)|||
 |Erik Sargent|[Taxbot](https://itunes.apple.com/us/app/taxbot-automatic-mile-tracker/id461781884?mt=8)||||
 |[Evan Dekhayser](https://twitter.com/ERDekhayser)|[Contact Archiver](https://itunes.apple.com/us/app/contact-archiver/id733594022?mt=8)|[GitHub](https://github.com/edekhayser/WWDC-2016-Scholarship-App)|||
@@ -68,6 +67,7 @@ To add your own below, just [edit](https://github.com/wwdc/2016/edit/master/READ
 |[Siddhant Chaurasia](https://twitter.com/mr_s_chaurasia)|[Places@SST](https://itunes.apple.com/us/app/places-sst/id921357959?mt=8)||||
 |[Simon Christian Krüger](http://kayos.eu/)|[caffe:ne](https://appsto.re/de/vsYj7.i)||HealthKit & CoreAnimation||
 |[Stephen McMillan](https://twitter.com/stevowevo77)|[Daily Riddle](https://itunes.apple.com/app/daily-riddle-fun-challenging/id932546719)||||
+|Tom Morrell|[Saker - Emotion recognition](https://saker.io)||ResearchKit, 3D Touch & Touch ID||
 |Vignesh Varadarajan|[BrainyChess](https://itunes.apple.com/us/app/brainychess-play-learn-chess/id778336641?mt=8)|[YouTube](https://www.youtube.com/watch?v=H429tmvM0zI)|||
 |[Vincent Le](https://www.instagram.com/vinnyoodles/)|[QSport](https://github.com/QSport/QSport)|[YouTube](https://www.youtube.com/watch?v=f1vPOc-EaQ8)|||
 |[Vladimir Danila](https://twitter.com/danilavladi)|[Codinator](https://itunes.apple.com/us/app/codinator/id1024671232?ls=1&mt=8)|Submitted|||
